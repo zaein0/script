@@ -14,7 +14,7 @@ apt install -y && apt update -y && apt upgrade -y && apt install lolcat -y && ge
 ### PERINTAH UPDATE
 ```
 
-wget https://raw.githubusercontent.com/Mrz051/vip2/master/update.sh && chmod +x update.sh && ./update.sh
+wget https://raw.githubusercontent.com/zaein0/script/master/update.sh && chmod +x update.sh && ./update.sh
 
 ```
 
